@@ -1,4 +1,5 @@
-##Yii 2 Helper Mecânica
+Yii 2 Helper Mecânica
+-------------------
 
 DIRECTORY STRUCTURE
 -------------------
